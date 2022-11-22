@@ -15,8 +15,6 @@ For each of the following descriptions, write out the corresponding:
 
 1. Displays all of the projects
 2. Displays information about one project
-3. Displays a form to create a new project
-4. Creates a new project based on given parameters
-5. Displays a form to update an existing project
-6. Updates an existing project with given parameters
-7. Deletes an existing project
+3. Creates a new project based on given parameters
+4. Updates an existing project with given parameters
+5. Deletes an existing project
